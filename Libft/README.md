@@ -1,0 +1,1 @@
+This is an implementation of basic functions in C. The library will help you with future projects.
